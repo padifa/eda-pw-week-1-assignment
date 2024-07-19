@@ -2,10 +2,15 @@
 
 header {
     background-color: hsl(93, 100%, 66%);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    
 }
 /* Add a fun background color to the main element */
 main {
     background-color: #0253f4;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 /* Align the h1 containing your name in the center of the header*/
@@ -34,4 +39,8 @@ li {
 /* Add a background color to the footer element */
 footer {
     background-color: hsl(90, 50%, 98%);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 30px;
+    text-align: center;
 }
